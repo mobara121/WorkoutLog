@@ -1,5 +1,5 @@
 ## Register
-![user_register.PNG](.assignmentImg/user_register.PNG)
+![assignmentImg_user_register.PNG](.assignmentImg/user_register.PNG)
 ## Login
 ![user_login.PNG](.assignmentImg/user_login.PNG)
 ## Post
