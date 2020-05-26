@@ -1,1 +1,1 @@
-![Register](.assignmentImg/user_register.png)
+![Register](./assignmentImg/user_register.png)
