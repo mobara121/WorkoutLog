@@ -9,7 +9,7 @@ router.post('/', (req, res) => {
        description: req.body.log.description,
        definition: req.body.log.definition,
        result: req.body.log.result,
-       owner_id: req.body.log.owner_id
+       owner_id: req.user.id
    }
    Log.create(logFromRequest)
        .then(log => res.status(200).json({

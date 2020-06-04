@@ -18,7 +18,7 @@ app.use(require('./middleware/headers'));
 app.use('/user', user);
 
 app.use(require('./middleware/validate-session'));
-app.use('/log/', log);
+app.use('/log', log);
 
 
 // app.use('/authtest', authTest);
